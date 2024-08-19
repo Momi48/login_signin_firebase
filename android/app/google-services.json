@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142775040760",
+    "project_id": "codepie-9f0b3",
+    "storage_bucket": "codepie-9f0b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142775040760:android:dc06e7cd348090ebbb590d",
+        "android_client_info": {
+          "package_name": "com.example.codepie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPF3UKWSFjdmH3Ips9Cwn8hA4uAYcSdUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
